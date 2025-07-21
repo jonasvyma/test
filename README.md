@@ -2,4 +2,4 @@
 ## uploading an image link:
 ![squares](images/squares.JPG)
 ## favourite website:
-[a linknto github](https://github.com)
+[DO NOT CLICK HERE](https://github.com)
