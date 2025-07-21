@@ -1,5 +1,5 @@
 # test
 ## uploading an image link:
-![squares.JPG](images/test/squares.JPG)
+![squares.JPG](test/images/squares.JPG)
 ## favourite website:
 [a link](https://github.com)
